@@ -12,7 +12,7 @@ Este repositório contém projetos de Business Intelligence desenvolvidos no Pow
 
 | Projeto | Descrição | Tecnologias |
 |--------|-----------|-------------|
-| Faculdade | Análise de alunos formados, Bons Pagadores e Mal Pagadores | Matriculados | Power BI, SQL |
+| Faculdade | Análise de alunos formados, Bons Pagadores e Mal Pagadores, Matriculados | Power BI, SQL |
 
 ## 📁 Organização
 - `/Faculdade/` → Dashboard + código M para transformação de dados
